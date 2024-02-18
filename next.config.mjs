@@ -7,9 +7,9 @@ const nextConfig = {
                 protocol: 'https',
                 hostname: 'replicate.delivery',
                 port: '',
-            }
+            },
         ],
-    }
+    },
 }
 
 export default nextConfig
